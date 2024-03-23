@@ -2,7 +2,7 @@
 
 ![C#](https://img.shields.io/badge/Language-C%23-green)
 
-Este repositório contém uma calculadora simples implementada em C#. É um projeto ideal para quem está aprendendo os conceitos básicos da linguagem C# e deseja praticar suas habilidades de programação.
+Este repositório contém uma calculadora simples implementada em C#. 
 
 ## Funcionalidades
 
