@@ -1,0 +1,7 @@
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\obj\Debug\Calculador.csproj.AssemblyReference.cache
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\obj\Debug\Calculador.csproj.CoreCompileInputs.cache
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\bin\Debug\Calculador.exe.config
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\bin\Debug\Calculador.exe
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\bin\Debug\Calculador.pdb
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\obj\Debug\Calculador.exe
+C:\Users\Diego Neri\source\repos\Calculador\Calculador\obj\Debug\Calculador.pdb
