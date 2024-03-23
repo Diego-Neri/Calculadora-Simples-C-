@@ -18,25 +18,8 @@ Este repositório contém uma calculadora simples implementada em C#. É um proj
 3. Compile e execute o projeto.
 4. Use a calculadora para realizar operações matemáticas básicas.
 
-## Exemplo de Uso
+![Calculadora_execute](Imagem_Execute.png)
 
-```csharp
-using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Instanciar a calculadora
-        Calculator calculator = new Calculator();
-
-        // Exemplos de operações
-        Console.WriteLine("Adição: " + calculator.Add(5, 3));
-        Console.WriteLine("Subtração: " + calculator.Subtract(10, 4));
-        Console.WriteLine("Multiplicação: " + calculator.Multiply(7, 2));
-        Console.WriteLine("Divisão: " + calculator.Divide(15, 3));
-    }
-}
 
 
 ### Diego Neri
